@@ -116,4 +116,4 @@ Cleaned file saved as `clean_hr_data.csv`.
 
 ## 💬 Contact
 
-Feel free to connect with me on [LinkedIn](#) or check out my portfolio at [GitHub](#) for more projects.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/syeda-mahrukh/) or check out my portfolio at [GitHub](https://github.com/SMahrukh/hr-analytics-portfolio/tree/main).
