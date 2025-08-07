@@ -2,7 +2,7 @@
 # HR Analytics Portfolio Project
 
 **Author:** Syeda Mahrukh  
-**Tools Used:** Python (Pandas), SQL Server, Power BI  
+**Tools Used:** Python, SQL Server, Power BI  
 **Dataset:** IBM HR Analytics Employee Attrition & Performance  
 **Focus:** Data cleaning, analysis, and visualization of HR data to support strategic decisions
 
