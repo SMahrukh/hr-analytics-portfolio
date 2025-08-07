@@ -119,8 +119,6 @@ Together, these visuals tell a story of where the organization stands — and wh
 ├── dashboards/
 │   └── hr_dashboard.pbix
 │   └── screenshots/
-├── erd/
-│   └── hr_schema.png
 ├── README.md
 ```
 ---
