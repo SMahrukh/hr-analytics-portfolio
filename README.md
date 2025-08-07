@@ -43,26 +43,26 @@ Cleaned file saved as `clean_hr_data.csv`.
 
 ## Key Metrics 
 
-# Attrition Analysis
+### Attrition Analysis
 - Overall Attrition Rate
 - Attrition by Department & Job Role
 - Attrition by Gender & Education Field
 - Attrition by Gender & Age Group
 - Attrition by Overtime and WorkLife Balance
 
-# Compensation Analysis
+### Compensation Analysis
 - Average salary by job role and level
 - Gender pay gap by job level
 
-# DEI & Diversity Insights
+### DEI & Diversity Insights
 - Gender distribution by department
 - Tenure vs Job Satisfaction
 
-# Performance & Career Progression
+### Performance & Career Progression
 - Are High performers leaving
 - Performance vs YearsSinceLastPromotion
 
-# Satisfaction & Tenure Analysis
+### Satisfaction & Tenure Analysis
 - Job satisfaction vs attrition
 - Average Years at Company by Department
 
