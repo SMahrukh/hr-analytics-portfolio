@@ -1,0 +1,15 @@
+{
+  "name": "HR Analytics Theme",
+  "dataColors": ["#4361EE", "#3A0CA3", "#F72585", "#7209B7", "#4CC9F0", "#B5179E"],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#4CC9F0",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "titleText": [{"fontSize": 12, "fontFamily": "Segoe UI"}],
+        "labelText": [{"fontSize": 10, "color": "#333333"}]
+      }
+    }
+  }
+}
