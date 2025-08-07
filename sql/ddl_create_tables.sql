@@ -231,9 +231,9 @@ ORDER BY s.JobSatisfaction DESC;
 SELECT 
     s.JobSatisfaction,
     CASE 
-        WHEN t.YearsAtCompany BETWEEN 0 AND 2 THEN '0–2 years'
-        WHEN t.YearsAtCompany BETWEEN 3 AND 5 THEN '3–5 years'
-        WHEN t.YearsAtCompany BETWEEN 6 AND 10 THEN '6–10 years'
+        WHEN t.YearsAtCompany BETWEEN 0 AND 2 THEN '0â€“2 years'
+        WHEN t.YearsAtCompany BETWEEN 3 AND 5 THEN '3â€“5 years'
+        WHEN t.YearsAtCompany BETWEEN 6 AND 10 THEN '6â€“10 years'
         ELSE '11+ years'
     END AS YearsAtCompanyRange,
     CAST( ROUND(
@@ -246,9 +246,9 @@ JOIN Attrition a ON s.EmployeeID = a.EmployeeID
 GROUP BY 
     s.JobSatisfaction,
     CASE 
-        WHEN t.YearsAtCompany BETWEEN 0 AND 2 THEN '0–2 years'
-        WHEN t.YearsAtCompany BETWEEN 3 AND 5 THEN '3–5 years'
-        WHEN t.YearsAtCompany BETWEEN 6 AND 10 THEN '6–10 years'
+        WHEN t.YearsAtCompany BETWEEN 0 AND 2 THEN '0â€“2 years'
+        WHEN t.YearsAtCompany BETWEEN 3 AND 5 THEN '3â€“5 years'
+        WHEN t.YearsAtCompany BETWEEN 6 AND 10 THEN '6â€“10 years'
         ELSE '11+ years'
     END
 ORDER BY s.JobSatisfaction DESC, YearsAtCompanyRange;
