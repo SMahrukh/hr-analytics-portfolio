@@ -19,7 +19,7 @@ This project demonstrates end-to-end HR data analysis using a real-world dataset
 
 ## Project Phases
 
-1. **Planning & Setup**
+1. **Planning & Setup (Notion)**
 2. **Data Collection**
 3. **Data Cleaning (Python)**
 4. **Database Creation & Querying (SQL)**
