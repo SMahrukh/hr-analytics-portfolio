@@ -2,7 +2,7 @@
 # HR Analytics Portfolio Project
 
 **Author:** Syeda Mahrukh  
-**Tools Used:** Python, SQL Server, Power BI  
+**Tools Used:** Notion, Python, SQL Server, Power BI  
 **Dataset:** IBM HR Analytics Employee Attrition & Performance  
 **Focus:** Data cleaning, analysis, and visualization of HR data to support strategic decisions
 
@@ -25,6 +25,12 @@ This project demonstrates end-to-end HR data analysis using a real-world dataset
 4. **Database Creation & Querying (SQL)**
 5. **Visualization & Dashboarding (Power BI)**
 6. **Documentation & GitHub Publishing**
+
+---
+
+## Planning & Setup (Notion)
+
+Notion Link: https://www.notion.so/HR-Analysis-Portfolio-244da7d8e002802db5f7c0071966b9fe?source=copy_link
 
 ---
 
